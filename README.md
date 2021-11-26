@@ -1,5 +1,5 @@
 # person_mask
-给视频中的指定人物打码
+给视频中的指定人物打马赛克 ｜ Mask the specified person in the video
   
 # 展示
 <img src="https://github.com/yfq512/person_mask/blob/main/demo.gif" width="400"/>
