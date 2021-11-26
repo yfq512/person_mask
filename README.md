@@ -2,7 +2,7 @@
 给视频中的指定人物打码
   
 # 展示
-<img src="https://github.com/yfq512/person_mask/blob/main/demo.gif" width="860"/>
+<img src="https://github.com/yfq512/person_mask/demo.gif" width="400"/>
 
 # 新闻
 * 代码将在近期开源
